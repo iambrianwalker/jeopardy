@@ -1,0 +1,124 @@
+html, body{
+    margin:0;
+    height:100%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: #003366;
+}
+
+#header{
+    background-color: #003366;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+#main{
+    background-color: #006699;
+    padding:10px;
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title span{
+    font-family: Impact, Charcoal, sans-serif;
+    color: #ffd700;
+    text-shadow:
+    0 0 5px #fff,
+    0 0 10px #fff,
+    0 0 20px #ffd700,
+    0 0 30px #ffa500;
+    font-weight: bold;
+    animation: glow 2s ease-in-out infinite alternate;
+    letter-spacing: 1px;
+}
+
+@keyframes glow {
+  from {
+    text-shadow:
+      0 0 5px #fff,
+      0 0 10px #fff,
+      0 0 20px #ffd700,
+      0 0 30px #ffa500;
+  }
+  to {
+    text-shadow:
+      0 0 10px #fff,
+      0 0 20px #ffd700,
+      0 0 30px #ff8c00,
+      0 0 40px #ff4500;
+  }
+}
+
+.button{ 
+    padding: 10px 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    border: 4px solid#ffff00;
+    box-shadow: 2px 4px #808080;
+    transition: box-shadow 0.3s ease;
+}
+
+.button:hover{
+    background-color: #ffff00;
+    box-shadow: none;
+}
+
+#footer{
+    background-color: #003366;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+.board {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-auto-rows: 100px;
+    max-width: 1000px;
+    margin: 50px auto;
+    gap: 2px;
+}
+
+.cell {
+    background-color: #006699;
+    border: 2px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+}
+
+.cell form {
+    display: inline;
+}
+
+.category {
+    background-color: #003366;
+    font-weight: bold;
+}
+
+button {
+    width: 100%;
+    height: 100%;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.question-box {
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: #003366;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+}
