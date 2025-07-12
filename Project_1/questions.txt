@@ -1,0 +1,89 @@
+Anime|100|What is the name of the ninja who dreams of becoming Hokage?|Naruto Uzumaki
+Anime|200|In Dragon Ball Z, who is Goku's main rival and frenemy?|Vegeta
+Anime|300|In Attack on Titan, what are the giant creatures that humanity fights called?|Titans
+Anime|400|What Studio Ghibli film features a giant cat bus and a forest spirit?|My Neighbor Totoro
+Anime|500|In Death Note, what is the full name of the high school student who finds the notebook?|Light Yagami
+
+Popular Video Games|100|What game features a battle royale on an island with 100 players and building mechanics?|Fortnite
+Popular Video Games|200|In Minecraft, what do you need to mine diamonds?|Iron Pickaxe
+Popular Video Games|300|What 2020 game about a crewmate vs imposters became a viral hit during the pandemic?|Among Us
+Popular Video Games|400|In The Legend of Zelda series, what is the name of the main playable character?|Link
+Popular Video Games|500|What critically acclaimed RPG features a time-looping cycle in the underworld and is based on Greek mythology?|Hades
+
+Computer Science|100|What does 'CPU' stand for in computer terminology?|Central Processing Unit
+Computer Science|200|Which number system do computers use to store data - decimal or binary?|Binary
+Computer Science|300|What is the name of the structure where each element points to the next one in memory?|Linked List
+Computer Science|400|What kind of loop continues running until a certain condition is false?|While loop
+Computer Science|500|What's the term for a function that calls itself within its own definition?|Recursion
+
+Marvel|100|What billionaire superhero leads the Avengers and wears a metal suit?|Iron Man
+Marvel|200|What is the name of Thor's enchanted hammer?|Mjolnir
+Marvel|300|What Infinity Stone does Vision have in his forehead?|Mind Stone
+Marvel|400|Who is T'Challa better known as?|Black Panther
+Marvel|500|What is the real name of the Scarlet Witch?|Wanda Maximoff
+
+Star Wars|100|Who was Anakin Skywalker's Jedi Master?|Obi-Wan Kenobi
+Star Wars|200|What is the name of Han Solo's ship?|Millennium Falcon
+Star Wars|300|Which small, green Jedi Master famously says, 'Do or do not. There is no try'?|Yoda
+Star Wars|400|What is the name of the desert planet where Rey is introduced in The Force Awakens?|Jakku
+Star Wars|500|What clone trooper order causes the Jedi Purge in Revenge of the Sith?|Order 66
+
+History|100|Who was the first President of the United States?|George Washington
+History|200|In what year did World War II end?|1945
+History|300|What empire was ruled by Julius Caesar?|Roman Empire
+History|400|Who was the civil rights leader famous for his "I Have a Dream" speech?|Martin Luther King Jr.
+History|500|What wall fell in 1989, symbolizing the end of the Cold War?|Berlin Wall
+
+Geography|100|What is the capital of France?|Paris
+Geography|200|Which continent is the Sahara Desert located on?|Africa
+Geography|300|What is the longest river in the world?|Nile
+Geography|400|Which country has the most time zones?|France
+Geography|500|What is the smallest country in the world?|Vatican City
+
+Movies|100|Who directed the movie *Jurassic Park*?|Steven Spielberg
+Movies|200|What movie features the quote, “I’m the king of the world!”?|Titanic
+Movies|300|Which animated movie features a snowman named Olaf?|Frozen
+Movies|400|Which movie won Best Picture at the 2020 Oscars?|Parasite
+Movies|500|Who played the Joker in *The Dark Knight*?|Heath Ledger
+
+Math|100|What is 9 + 10?|19
+Math|200|What is the square root of 64?|8
+Math|300|What is the formula for the area of a circle?|πr²
+Math|400|What do you call a polygon with eight sides?|Octagon
+Math|500|What is the value of pi (π) rounded to 2 decimal places?|3.14
+
+Food|100|What fruit is known for keeping the doctor away?|Apple
+Food|200|Which country is famous for sushi?|Japan
+Food|300|What is the main ingredient in guacamole?|Avocado
+Food|400|What spicy food is measured in Scoville units?|Chili pepper
+Food|500|What is the French term for a dish cooked and served in the same pot?|Casserole
+
+Animals|100|What is the largest land animal?|Elephant
+Animals|200|What type of animal is a Komodo dragon?|Lizard
+Animals|300|What mammal lays eggs?|Platypus
+Animals|400|What is the only flying mammal?|Bat
+Animals|500|Which animal has the longest lifespan?|Greenland Shark
+
+Music|100|Who is known as the King of Pop?|Michael Jackson
+Music|200|Which instrument has 88 keys?|Piano
+Music|300|Which genre is Taylor Swift most associated with today?|Pop
+Music|400|What symbol indicates a sharp note in sheet music?|#
+Music|500|What is the musical term for speed or tempo?|Tempo
+
+Sports|100|How many players are on a basketball team on the court?|5
+Sports|200|What country hosted the 2016 Summer Olympics?|Brazil
+Sports|300|In soccer, what part of the body can't touch the ball (besides the goalie)?|Hands
+Sports|400|What is a perfect score in bowling?|300
+Sports|500|Which athlete has won the most Olympic gold medals?|Michael Phelps
+
+TV Shows|100|Which show features a coffee shop called Central Perk?|Friends
+TV Shows|200|Who is the main character in *Breaking Bad*?|Walter White
+TV Shows|300|Which show features Eleven and the Upside Down?|Stranger Things
+TV Shows|400|Which animated show features a family with a baby named Stewie?|Family Guy
+TV Shows|500|What is the longest-running animated TV show?|The Simpsons
+
+Literature|100|Who wrote *Romeo and Juliet*?|William Shakespeare
+Literature|200|Who is the author of *Harry Potter*?|J.K. Rowling
+Literature|300|What is the name of the whale in *Moby Dick*?|Moby Dick
+Literature|400|Who wrote *The Great Gatsby*?|F. Scott Fitzgerald
+Literature|500|What novel begins with “Call me Ishmael”?|Moby Dick
