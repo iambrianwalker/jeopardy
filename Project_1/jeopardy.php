@@ -37,7 +37,9 @@ function loadQuestionsFromFile($filename) {
     return [$pool, array_keys($allCategories)];
 }
 
-list($questionPool, $allCategories) = loadQuestionsFromFile("questions.txt");
+$returned = loadQuestionsFromFile("questions.txt");
+$questionPool = $returned[0];
+$allCategories = $returned[1];
 
 // Randomly select 5 categories on new game
 if (!isset($_SESSION['selectedCategories'])) {
@@ -103,6 +105,7 @@ if (isset($_POST['submit_answer'])) {
     $_SESSION['usedQuestions'][] = "$category-$value";
 
     // Export leaderboard
+    //Still working on this: Will not work for codd server :(
     $html = "<!DOCTYPE html>\n<html>\n<head><title>Leaderboard</title></head>\n<body>\n<h1>Jeopardy Leaderboard</h1>\n<ul>\n";
     foreach ($_SESSION['players'] as $player => $score) {
         $html .= "<li><strong>" . htmlspecialchars($player) . ":</strong> " . intval($score) . " points</li>\n";
