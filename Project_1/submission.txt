@@ -1,0 +1,7 @@
+o Leader’s Name: Brian Walker
+o Project Name: Jeopardy
+o Description: A one-sentence summary of your project: A fun jeopardy project consisting of php. css, html
+o All team members (last and first names) and their respective project responsibilities.
+-Brian Walker: Everything
+
+CODD Link: https://codd.cs.gsu.edu/~bwalker76/WP/PW/P1/index.html
